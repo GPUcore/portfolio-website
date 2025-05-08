@@ -15,7 +15,7 @@ export const projects: Project[] = [
     description: "A modern portfolio website built with Next.js and Tailwind CSS",
     image: "/projects/portfolio.jpg",
     technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
-    githubUrl: "https://github.com/yourusername/portfolio",
+    githubUrl: "https://github.com/GPUcore/portfolio-website",
     liveUrl: "https://your-portfolio.com"
   },
   {
